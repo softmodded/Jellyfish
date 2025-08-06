@@ -48,4 +48,4 @@ Here's a breakdown of what each script does:
 ---------------
 
 If you're here, I’ll assume you're familiar with injecting custom JavaScript. 😄 \
-If not, you can find installation instructions to inject custom JS in [Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced?tab=readme-ov-file#-installation), the process is similar.
+You can also use the plugin [Jellyfin JavaScript Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector)

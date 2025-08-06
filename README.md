@@ -127,9 +127,6 @@ In item details page, show text for Play, Trailer, Mark as watched etc.
 ----
 </p>
 
-<p align="center">
-----
-</p>
 
 <h3><img src="./logos/streamberry.png" alt="streamberry" width="12%" align="center"/> Logo</h3>
 
@@ -138,9 +135,16 @@ Streamberry Logo (inspired by Black Mirror) instead of Jellyfish Logo. Included 
 ``` css
 @import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/streamberry_logo.css");
 ```
+<p align="center">
+----
+</p>
+
+## 📝 Companion Scripts
+
+[Readme.md](/scripts/README.md)
 
 ---
-## Colors:
+## 🎨 Colors:
 
 <img src="./colors/swatches/banana.png" alt="banana" width="40%"/>
 
@@ -244,4 +248,17 @@ Streamberry Logo (inspired by Black Mirror) instead of Jellyfish Logo. Included 
 - Works for Movies and TV Shows, should work fine mostly for Music and Books, although I don't use Jellyfin for either of them
 - Works on both mobile app and web browser, known to have issues / not work on Jellyfin Media Player
 
+---
 
+<div align="center">
+
+**Made with 💜 for Jellyfin and the community**
+
+### Enjoying Jellyfish?
+
+Checkout my other repos!
+
+[Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) (javascript) • [Jellyfin-Elsewhere](https://github.com/n00bcodr/Jellyfin-Elsewhere) (javascript) • [Jellyfin-Tweaks](https://github.com/n00bcodr/JellyfinTweaks) (plugin) • [Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) (plugin) • [Jellyfish](https://github.com/n00bcodr/Jellyfish/) (theme)
+
+
+</div>
