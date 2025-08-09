@@ -1,4 +1,4 @@
-/* Jellyfish Ocean Blue Pastel Theme */
+t/* Jellyfish Ocean Blue Pastel Theme */
 :root {
     --primary-r: 135;
     --primary-g: 206;
@@ -13,7 +13,7 @@
     --alt-accent-color: #ffffff20;
     --text-color: #000000;
     --header-background-color: #ffffff6e; /* This is header and tabs background */
-    --logo: url("https://i.ibb.co/TqBxLXTx/jfish.png");
+    --logo: url("https://i.ibb.co/jXMJL3s/logo-white.png");
     --background-image: url(https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/colors/images/ocean.jpg);
     --footer-message: "";
 
