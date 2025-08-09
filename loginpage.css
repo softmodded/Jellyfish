@@ -191,7 +191,7 @@ body:has(#loginPage:not(.hide)) .standalonePage {
 
 /* Adds a custom footer message to the login page. */
 #loginPage::after {
-  content: var(--footer-message, "🧀 This server runs on snacks and sarcasm.");
+  content: var(--footer-message, "");
   display: block;
   text-align: center;
   font-size: 1em;
@@ -260,7 +260,7 @@ body:has(#loginPage:not(.hide)) .standalonePage {
 
 /* Custom text and styling for the "Cancel" button. */
 #loginPage button.emby-button[type="button"].btnCancel span::after {
-  content: "Abort Mission! ☠️" !important;
+  content: "cancel" !important;
   font-size: 16px !important;
   font-family: inherit;
 }
