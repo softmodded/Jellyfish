@@ -15,7 +15,7 @@
     --header-background-color: #ffffff6e; /* This is header and tabs background */
     --logo: url("https://i.ibb.co/TqBxLXTx/jfish.png");
     --background-image: url(https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/colors/images/ocean.jpg);
-    --footer-message: "🌊 Wave after wave, stream what you crave!";
+    --footer-message: "";
 
     /* Alternate accents */
     --primary-alt1: rgba(calc(var(--primary-r) - 30), calc(var(--primary-g) - 30), calc(var(--primary-b) - 30), 1);
